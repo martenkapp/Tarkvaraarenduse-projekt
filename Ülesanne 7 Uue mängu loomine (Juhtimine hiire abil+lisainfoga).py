@@ -4,7 +4,7 @@ pygame.init()
 
 WIDTH, HEIGHT = 640, 480
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Hiir")
+pygame.display.set_caption("Ülesanne7")
 
 clock = pygame.time.Clock()
 
